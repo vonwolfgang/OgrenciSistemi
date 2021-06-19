@@ -11,7 +11,7 @@ Java ile öğrenci bilgi sistemi yapımı
 Projeyi cloneladıktan sonra Visual studio Code programında açınız
 
 Linux için:
-1. `cd DaireDilimAlan`
+1. `cd OgrenciSistemi`
 2. `code .`
 
 ## Contributing
